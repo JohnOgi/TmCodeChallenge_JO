@@ -1,4 +1,4 @@
-##Configuration:##
+Configuration:
 
 Update the AppAccessToken in the App.Config file located at the following URL with your Application Access Token: 
 
